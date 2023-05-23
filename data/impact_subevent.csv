@@ -1,0 +1,114 @@
+var,impact,rank,quant
+total_pop,1.3091859653812483,0,Extremely Important
+perc_yes_phone,1.1486429544664014,1,Extremely Important
+sum_income,1.123915018624194,2,Extremely Important
+perc_single_parent_hhtype,1.0950039325485272,3,Extremely Important
+avg_age,1.0935130422332522,4,Extremely Important
+perc_no_sewage_system,1.0929305846651498,5,Extremely Important
+perc_yes_refrig,1.088570340781031,6,Extremely Important
+perc_elementary_occupations,1.0703498390955135,7,Extremely Important
+perc_yes_hotwater,1.070082099922016,8,Extremely Important
+attack,1.0591102779207835,9,Extremely Important
+perc_secondary_edu,1.057290326082664,10,Extremely Important
+perc_less_than_primary_edu,1.0566622209295529,11,Extremely Important
+perc_agri_fish_workers,1.055714201910573,12,Extremely Important
+perc_service_workers,1.0547521048290671,13,Extremely Important
+perc_professionals,1.0538001334323464,14,Extremely Important
+perc_yes_internet,1.0516807428910848,15,Extremely Important
+mob_violence,1.051093135051641,16,Extremely Important
+perc_one_person_hhtype,1.0468795042118255,17,Extremely Important
+armed_clash,1.0405479844685608,18,Extremely Important
+perc_yes_and_spanish_speakind,1.0398924110733803,19,Extremely Important
+perc_wood_wall,1.0363071571847975,20,Extremely Important
+perc_no_coverage_hlthcov,1.0362898646055556,21,Extremely Important
+perc_clerks,1.0313659870570318,22,Extremely Important
+perc_adobe_wall,1.0311127128312016,23,Extremely Important
+perc_senior_officials,1.0304438982067194,24,Extremely Important
+perc_machine_operators,1.0292728598066603,25,Extremely Important
+perc_yes_computer,1.0284860485757066,26,Extremely Important
+perc_private_facility_hlthfac,1.0278697113687065,27,Extremely Important
+perc_separated,1.0251695222826016,28,Important
+perc_septic_tank,1.0238125648936203,29,Important
+perc_sheet_metal_roof,1.0229657067480107,30,Important
+perc_yes_autos,1.020384245062538,31,Important
+sexual_violence,1.0200550101755073,32,Important
+perc_mud_wall,1.0199669594976282,33,Important
+perc_social_security_imss_hlthfac,1.0194446616127593,34,Important
+perc_unpaid_worker,1.0188167174564742,35,Important
+abduction_forced_disappearance,1.0181340538647183,36,Important
+perc_yes_literacy,1.0171089550058032,37,Important
+perc_wage_worker,1.0168996824018763,38,Important
+perc_yes_radio,1.0162965017477519,39,Important
+change_to_group_activity,1.016038654594881,40,Important
+avg_chsurv,1.0157477824412755,41,Important
+perc_married_with_children_hhtype,1.0156392261384473,42,Important
+perc_technicians_associate_professionals,1.0155097537922666,43,Important
+perc_flush_toilet,1.0145314730191946,44,Important
+perc_scrap_material_roof,1.0145060321446433,45,Important
+perc_extended_family_hhtype,1.0143902605389856,46,Important
+perc_yes_only_indig_speakind,1.0140740936333619,47,Important
+perc_trades_workers,1.0135865826906305,48,Important
+perc_yes_bath,1.013001010976852,49,Important
+disrupted_weapons_use,1.012810657463808,50,Important
+perc_metal_asbestos_sheet_wall,1.0127127771905773,51,Important
+perc_no_piped_water,1.012516636924273,52,Important
+excessive_force_against_protesters,1.0119384530913953,53,Important
+perc_owned,1.0117850204051844,54,Important
+perc_slate_roof,1.0106139452281557,55,Important
+remote_explosive_landmine_ied,1.010376253237411,56,Not Important
+perc_public_workers_issste_hlthfac,1.010208712147009,57,Not Important
+perc_yes_speakind,1.0096234917456073,58,Not Important
+perc_rural,1.009565843140986,59,Not Important
+perc_cement_floor,1.0091112037564633,60,Not Important
+perc_primary_edu,1.0076740830779283,61,Not Important
+perc_yes_washer,1.0076718795356707,62,Not Important
+perc_reed_bamboo_palm_wall,1.0074576701665208,63,Not Important
+perc_masonry_roof,1.0074028833562347,64,Not Important
+avg_num_years_from_last_birth,1.0071840757050308,65,Not Important
+avg_room_num,1.007060526264394,66,Not Important
+perc_no_unfinished_floor,1.0067170923684319,67,Not Important
+perc_brick_stone_wall,1.0066207139667085,68,Not Important
+avg_ncouples,1.0063835029519463,69,Not Important
+perc_university_edu,1.006363955550783,70,Not Important
+perc_yes_indig,1.0053172048893524,71,Not Important
+avg_nfams,1.00529799515333,72,Not Important
+arrests,1.004979223800541,73,Not Important
+perc_public_insurance_hlthcov,1.0045289962310255,74,Not Important
+perc_cardboard_wall,1.0043636766024602,75,Not Important
+perc_asbestos_roof,1.0042655604435722,76,Not Important
+perc_yes_cell,1.004204960296829,77,Not Important
+protest_with_intervention,1.0041459004514703,78,Not Important
+perc_armed_forces,1.0039363527079415,79,Not Important
+perc_yes_kitchen,1.0038793389939058,80,Not Important
+perc_employed,1.0038418344570528,81,Not Important
+perc_issste_only_hlthcov,1.0037035005809505,82,Not Important
+perc_thatch_roof,1.0035610911877824,83,Not Important
+perc_married,1.0033363091243357,84,Extremely Unimportant
+air_drone_strike,1.0033186116867405,85,Extremely Unimportant
+perc_wood_roof,1.0032213111066242,86,Extremely Unimportant
+perc_permex_defense_navy_hlthfac,1.0030771352771033,87,Extremely Unimportant
+unrel_ppl,1.0029742978602276,88,Extremely Unimportant
+perc_composite_hhytpe,1.0029194952195313,89,Extremely Unimportant
+perc_plant_materials_roof,1.00231883547153,90,Extremely Unimportant
+perc_yes_electricity,1.0022658039676375,91,Extremely Unimportant
+perc_cardboard_roof,1.001697415559539,92,Extremely Unimportant
+avg_chdead,1.001674723557742,93,Extremely Unimportant
+perc_imss_only_hlthcov,1.0016526216578976,94,Extremely Unimportant
+headquarters_or_base_established,1.0015434759271697,95,Extremely Unimportant
+perc_no_facility_used_hlthfac,1.0015251351545376,96,Extremely Unimportant
+perc_yes_lab,1.0013975060953142,97,Extremely Unimportant
+perc_non_family_hhtype,1.0013717349616327,98,Extremely Unimportant
+perc_yes_school,1.0012740973795984,99,Extremely Unimportant
+perc_self_employed,1.0010847424038172,100,Extremely Unimportant
+avg_npersons,1.0010310860122906,101,Extremely Unimportant
+agreement,1.00076446587798,102,Extremely Unimportant
+peaceful_protest,1.000490140441392,103,Extremely Unimportant
+perc_single,1.0003163035389164,104,Extremely Unimportant
+looting_property_destruction,1.0001239546623792,105,Extremely Unimportant
+violent_demonstration,0.9999442047852158,106,Extremely Unimportant
+perc_scrap_wall,0.9998791269122491,107,Extremely Unimportant
+perc_electricity_fuelcook,0.9989832491926488,108,Extremely Unimportant
+perc_disabled,0.9989566439911228,109,Extremely Unimportant
+grenade,0.9985573538989513,110,Extremely Unimportant
+other,0.9975154997184186,111,Extremely Unimportant
+perc_sewage_system,0.9951635645024127,112,Extremely Unimportant

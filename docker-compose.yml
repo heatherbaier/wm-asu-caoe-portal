@@ -1,0 +1,18 @@
+services:
+  db:
+    image: mariadb:10.9
+    environment:
+      MYSQL_ROOT_PASSWORD: caoe
+      MYSQL_DATABASE: caoe
+      MYSQL_USER: caoe
+      MYSQL_PASSWORD: caoe
+    ports:
+      - 3306:3306
+  caoe:
+    build: .
+    image: caoe:latest
+    environment:
+      DATABASE_URI: "mysql://caoe:caoe@db:3306/caoe"
+      SECRET_KEY: asdfasdfasd
+    ports:
+      - 8080:80

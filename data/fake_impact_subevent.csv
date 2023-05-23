@@ -1,0 +1,53 @@
+var,impact,rank,quant
+NCHLT5,-462.4116366,0,Extremely Important
+NCHILD,-463.2320905,1,Extremely Important
+NCOUPLES,-463.5803008,2,Extremely Important
+NFATHERS,-463.7228422,3,Extremely Important
+UNREL,-464.3960138,4,Extremely Important
+NMOTHERS,-465.1224489,5,Extremely Important
+FAMSIZE,-465.1669917,6,Extremely Important
+LASTBMORT,-465.1798856,7,Extremely Important
+CLASSWKD,-465.5645514,8,Extremely Important
+CLASSWK,-465.6849241,9,Extremely Important
+SEX,-468.8125842,10,Important
+PERNUM,-468.8519028,11,Important
+GQ,-468.8889585,12,Important
+INDIG,-469.005117,13,Important
+INDGEN,-469.005117,14,Important
+LASTBYR,-469.0171278,15,Important
+YNGCH,-469.0210231,16,Important
+LASTBMO,-469.0337986,17,Important
+OCCISCO,-469.0382039,18,Important
+CHSURV,-469.0492848,19,Important
+ELDCH,-469.0757742,20,Important
+URBAN,-469.0955964,21,Important
+CHBORN,-469.1292402,22,Important
+FUELCOOK,-469.170743,23,Important
+LABFORCE,-469.225851,24,Important
+BPLMX,-469.3386047,25,Not Important
+SCHOOL,-469.3477411,26,Not Important
+LIT,-469.3490037,27,Not Important
+TRASH,-469.3503225,28,Not Important
+EDATTAIN,-469.35426,29,Not Important
+SEWAGE,-469.3589506,30,Not Important
+TOILET,-469.3756697,31,Not Important
+ELECTRIC,-469.3796176,32,Not Important
+WATSUP,-469.3817185,33,Not Important
+FLOOR,-469.3964036,34,Not Important
+NFAMS,-469.3964218,35,Not Important
+EMPSTAT,-469.4071454,36,Not Important
+YRSCHOOL,-469.4123564,37,Not Important
+NATIVITY,-469.4135695,38,Not Important
+MARST,-469.4174751,39,Extremely Unimportant
+KITCHEN,-469.4196518,40,Extremely Unimportant
+EMPSTATD,-469.4238304,41,Extremely Unimportant
+MARSTD,-469.4269185,42,Extremely Unimportant
+BPLCOUNTRY,-469.434197,43,Extremely Unimportant
+EDATTAIND,-469.4456996,44,Extremely Unimportant
+OWNERSHIP,-469.4535394,45,Extremely Unimportant
+HHTYPE,-469.4597902,46,Extremely Unimportant
+OWNERSHIPD,-469.466824,47,Extremely Unimportant
+PERWT,-469.5368991,48,Extremely Unimportant
+ROOMS,-469.5442743,49,Extremely Unimportant
+BEDROOMS,-469.5479724,50,Extremely Unimportant
+AGE,-469.5680333,51,Extremely Unimportant
